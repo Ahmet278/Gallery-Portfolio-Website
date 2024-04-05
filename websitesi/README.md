@@ -17,3 +17,5 @@ styles.css dosyasında da css kodlarımız bulunmakta olup .css uzantısıyla si
 .png dosyaları ise sitemize eklenen resimlerin dosyalarıdır.
 
 Ayrıca, "promptlarım.txt" text dosyasıyla da yapay zeka araçlarını kullanırken kurduğum diyaloglara ulaşabilirsiniz.
+
+Bu projeyi Globalaihub tarafından Yapay Zekaya İlk Adım eğitimi aldıktan sonra proje olarak tamamladım.
